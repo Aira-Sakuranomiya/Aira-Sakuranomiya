@@ -10,7 +10,7 @@
 - 🎮 Calibur Pixel 服主
 - 🧦 白丝雪糕好耶 ヽ(✿ﾟ▽ﾟ)ノ
 
-![Statistics](https://github-readme-stats.vercel.app/api?username=aira-sakuranomiya&count_private=true&show_icons=true&locale=cn&include_all_commits=true&theme=dracula&icon_color=f47097&hide_border=true)
+![Statistics](https://github-readme-stats.vercel.app/api?username=aira-sakuranomiya&count_private=true&show_icons=true&locale=cn&include_all_commits=true&icon_color=fb7299&title_color=fb7299&hide_border=true)
 
 ##### 来找我玩w
 [![bilibili](https://img.shields.io/badge/艾了个拉-FB7299.svg?style=for-the-badge&logo=Bilibili&logoColor=white)](https://space.bilibili.com/22807093)
