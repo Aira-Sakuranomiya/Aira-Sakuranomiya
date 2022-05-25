@@ -1,16 +1,14 @@
-<img align="right" src="https://raw.githubusercontent.com/Aira-Sakuranomiya/Aira-Sakuranomiya/main/AiraGitHubProfile.png" width="322px">
+<img align="right" src="https://raw.githubusercontent.com/Aira-Sakuranomiya/Aira-Sakuranomiya/main/AiraGitHubProfile.png" width="300px">
 
 ### Hi~ 这里 艾了个拉 desu (｡･∀･)ﾉﾞ
 
+![Statistics](https://github-readme-stats.vercel.app/api?username=aira-sakuranomiya&count_private=true&show_icons=true&locale=cn&include_all_commits=true&icon_color=fb7299&title_color=fb7299&hide_border=true)
 
 - 🌸 喜欢可爱的东西
 - 🎨 以设计为主但是平时经常折腾
 - 🎵 音MAD维基站长
 - 🎮 Calibur Pixel 服主
 - 🧦 白丝雪糕好耶 ヽ(✿ﾟ▽ﾟ)ノ
-
-
-![Statistics](https://github-readme-stats.vercel.app/api?username=aira-sakuranomiya&count_private=true&show_icons=true&locale=cn&include_all_commits=true&icon_color=fb7299&title_color=fb7299&hide_border=true)
 
 
 ##### 来找我玩~w
