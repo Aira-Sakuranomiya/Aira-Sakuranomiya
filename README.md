@@ -1,4 +1,12 @@
-### Hi there 👋
+### Hi~ 这里 艾了个拉 desu (｡･∀･)ﾉﾞ
+
+- 🌸 喜欢可爱的东西
+- 🎨 以设计为主但是平时经常折腾
+- 🎵 音MAD维基站长
+- 🎮 Calibur Pixel 服主
+
+![](https://github-readme-stats.vercel.app/api?username=aira-sakuranomiya&count_private=true&show_icons=true&locale=cn&include_all_commits=true&theme=dracula&icon_color=f47097&hide_border=true)
+
 
 <!--
 **Aira-Sakuranomiya/Aira-Sakuranomiya** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
