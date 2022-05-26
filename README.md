@@ -1,4 +1,4 @@
-<img align="right" src="https://raw.githubusercontent.com/Aira-Sakuranomiya/Aira-Sakuranomiya/main/AiraGitHubProfile.png" width="300px">
+<img align="right" src="https://raw.githubusercontent.com/Aira-Sakuranomiya/Aira-Sakuranomiya/main/AiraGitHubProfile.png" width="32%">
 
 ### Hi~ 这里 艾了个拉 desu (｡･∀･)ﾉﾞ
 
