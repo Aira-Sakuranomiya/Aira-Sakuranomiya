@@ -20,15 +20,15 @@
 
 ##### 工作环境~w
 [![Windows 10](https://img.shields.io/badge/Windows%2010-0078D6?style=flat-square&logo=Windows&logoColor=white)](https://www.microsoft.com/zh-cn/software-download/windows10)
-![AMD](https://img.shields.io/badge/Ryzen%20R5%203600-ED1C24?style=flat-square&logo=AMD&logoColor=white)
-![NVIDIA](https://img.shields.io/badge/GeForce%20GTX%20TITAN%20X-76B900?style=flat-square&logo=NVIDIA&logoColor=white)
-![DELL](https://img.shields.io/badge/P2418D%20x2-007DB8?style=flat-square&logo=DELL&logoColor=white)
-![YAHAMA](https://img.shields.io/badge/AG03-4B1E78?style=flat-square&logo=Yamaha%20Corporation&logoColor=white)
-![MOUSE](https://img.shields.io/badge/Viper%20Ultimate%20Quartz-fb7299?style=flat-square&logo=Razer&logoColor=white)
-![KEYBOARD](https://img.shields.io/badge/AKKO%203108%20V2%20Tokyo-fb7299?style=flat-square)
+[![AMD](https://img.shields.io/badge/Ryzen%20R5%203600-ED1C24?style=flat-square&logo=AMD&logoColor=white)](https://www.amd.com/zh-hans/products/cpu/amd-ryzen-5-3600)
+[![NVIDIA](https://img.shields.io/badge/GeForce%20GTX%20TITAN%20X-76B900?style=flat-square&logo=NVIDIA&logoColor=white)](https://www.nvidia.cn/geforce/graphics-cards/geforce-gtx-titan-x/)
+[![DELL](https://img.shields.io/badge/P2418D%20x2-007DB8?style=flat-square&logo=DELL&logoColor=white)](https://www.dell.com/support/home/zh-cn/product-support/product/dell-p2418d-monitor/overview)
+[![YAHAMA](https://img.shields.io/badge/AG03-4B1E78?style=flat-square&logo=Yamaha%20Corporation&logoColor=white)](https://www.yamaha.com.cn/products/show/1816/)
+[![MOUSE](https://img.shields.io/badge/Viper%20Ultimate%20Quartz-fb7299?style=flat-square&logo=Razer&logoColor=white)](http://cn.razerzone.com/gaming-mice/razer-viper-ultimate)
+[![KEYBOARD](https://img.shields.io/badge/AKKO%203108%20V2%20Tokyo-fb7299?style=flat-square)](https://www.akkogear.com/keyboards/4090.html)
 
-![iOS 15](https://img.shields.io/badge/15-000000?style=flat-square&logo=iOS&logoColor=ffffff)
-![iPhone XR](https://img.shields.io/badge/iPhone%20XR-000000?style=flat-square&logo=Apple&logoColor=white)
+[![iOS 15](https://img.shields.io/badge/15-000000?style=flat-square&logo=iOS&logoColor=ffffff)](https://www.apple.com.cn/ios/ios-15/)
+[![iPhone XR](https://img.shields.io/badge/iPhone%20XR-000000?style=flat-square&logo=Apple&logoColor=white)](https://support.apple.com/kb/SP781?locale=zh_CN)
 
 
 ##### 语言~w
