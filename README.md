@@ -4,7 +4,6 @@
 
 ![Statistics](https://github-readme-stats.vercel.app/api?username=aira-sakuranomiya&count_private=true&show_icons=true&locale=cn&include_all_commits=true&icon_color=fb7299&title_color=fb7299&hide_border=true)
 
-![Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=aira-sakuranomiya&layout=compact&langs_count=8&icon_color=fb7299&title_color=fb7299&hide_border=true&locale=cn)
 
 - 🌸 喜欢可爱的东西
 - 🎨 以设计为主但是平时经常折腾
