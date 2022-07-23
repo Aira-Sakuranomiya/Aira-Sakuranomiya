@@ -29,7 +29,7 @@
 [![MOUSE](https://img.shields.io/badge/Viper%20Ultimate%20Quartz-fb7299?style=flat-square&logo=Razer&logoColor=white)](http://cn.razerzone.com/gaming-mice/razer-viper-ultimate)
 [![KEYBOARD](https://img.shields.io/badge/AKKO%203108%20V2%20Tokyo-fb7299?style=flat-square)](https://www.akkogear.com/keyboards/4090.html)
 
-[![iOS 15](https://img.shields.io/badge/15-000000?style=flat-square&logo=iOS&logoColor=ffffff)](https://www.apple.com.cn/ios/ios-15/)
+[![iOS 15](https://img.shields.io/badge/15.6-000000?style=flat-square&logo=iOS&logoColor=ffffff)](https://www.apple.com.cn/ios/ios-15/)
 [![iPhone XR](https://img.shields.io/badge/iPhone%20XR-000000?style=flat-square&logo=Apple&logoColor=white)](https://support.apple.com/kb/SP781?locale=zh_CN)
 
 
