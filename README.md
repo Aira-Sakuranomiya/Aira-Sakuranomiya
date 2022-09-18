@@ -22,8 +22,8 @@
 
 ##### 工作环境~w
 [![Windows 11](https://img.shields.io/badge/Windows%2011-0078D6?style=flat-square&logo=Microsoft&logoColor=white)](https://www.microsoft.com/zh-cn/software-download/windows11)
-[![AMD](https://img.shields.io/badge/Ryzen%20R5%203600-ED1C24?style=flat-square&logo=AMD&logoColor=white)](https://www.amd.com/zh-hans/products/cpu/amd-ryzen-5-3600)
-[![NVIDIA](https://img.shields.io/badge/GeForce%20GTX%20TITAN%20X-76B900?style=flat-square&logo=NVIDIA&logoColor=white)](https://www.nvidia.cn/geforce/graphics-cards/geforce-gtx-titan-x/)
+[![CPU](https://img.shields.io/badge/Ryzen%20R5%203600X-ED1C24?style=flat-square&logo=AMD&logoColor=white)](https://www.amd.com/zh-hans/products/cpu/amd-ryzen-5-3600)
+[![GPU](https://img.shields.io/badge/Radeon%20RX%205700%20XT-ED1C24?style=flat-square&logo=AMD&logoColor=white)](https://www.nvidia.cn/geforce/graphics-cards/geforce-gtx-titan-x/)
 [![DELL](https://img.shields.io/badge/P2418D%20x2-007DB8?style=flat-square&logo=DELL&logoColor=white)](https://www.dell.com/support/home/zh-cn/product-support/product/dell-p2418d-monitor/overview)
 [![YAHAMA](https://img.shields.io/badge/AG03-4B1E78?style=flat-square&logo=Yamaha%20Corporation&logoColor=white)](https://www.yamaha.com.cn/products/show/1816/)
 [![MOUSE](https://img.shields.io/badge/Viper%20Ultimate%20Quartz-fb7299?style=flat-square&logo=Razer&logoColor=white)](http://cn.razerzone.com/gaming-mice/razer-viper-ultimate)
