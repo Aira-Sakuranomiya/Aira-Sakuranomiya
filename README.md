@@ -42,7 +42,7 @@
 [![SVG](https://img.shields.io/badge/SVG-%23FFB13B.svg?style=flat-square&logo=SVG&logoColor=black)](https://developer.mozilla.org/zh-CN/docs/Web/SVG)
 
 
-##### 使用的东西~w
+##### 常使用的东西~w
 [![After Effects](https://img.shields.io/badge/After%20Effects-9999FF.svg?style=flat-square&logo=Adobe%20After%20Effects&logoColor=white)](https://www.adobe.com/products/aftereffects.html)
 [![Figma](https://img.shields.io/badge/Figma-1d1d1d.svg?style=flat-square&logo=Figma&logoColor=white)](https://www.figma.com/)
 [![Adobe Illustrator](https://img.shields.io/badge/Illustrator-%23FF9A00.svg?style=flat-square&logo=adobe%20illustrator&logoColor=white)](https://www.adobe.com/products/illustrator.html)
