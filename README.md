@@ -2,7 +2,7 @@
 
 ### Hi~ 这里 艾了个拉 desu (｡･∀･)ﾉﾞ
 
-[![Aira's GitHub stats-Light](https://github-readme-stats.vercel.app/api?username=aira-sakuranomiya&count_private=true&show_icons=true&locale=cn&include_all_commits=true&icon_color=fb7299&title_color=fb7299)](https://github.com/Aira-Sakuranomiya#gh-light-mode-only)
+[![Aira's GitHub stats-Light](https://github-readme-stats.vercel.app/api?username=aira-sakuranomiya&count_private=true&show_icons=true&locale=cn&include_all_commits=true&bg_color=fafafa&icon_color=fb7299&title_color=fb7299&hide_border=true)](https://github.com/Aira-Sakuranomiya#gh-light-mode-only)
 [![Aira's GitHub stats-Dark](https://github-readme-stats.vercel.app/api?username=aira-sakuranomiya&count_private=true&show_icons=true&locale=cn&include_all_commits=true&theme=dracula&hide_border=true)](https://github.com/Aira-Sakuranomiya#gh-dark-mode-only)
 
 - 🌸 喜欢可爱的东西
