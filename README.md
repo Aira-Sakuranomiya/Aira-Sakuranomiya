@@ -49,10 +49,12 @@
 
 ---
 
-#### 语言~w
-[![HTML5](https://img.shields.io/badge/HTML5-%23E34F26.svg?style=flat-square&logo=HTML5&logoColor=white)](https://developer.mozilla.org/zh-CN/docs/Web/HTML)
-[![CSS3](https://img.shields.io/badge/CSS3-%231572B6.svg?style=flat-square&logo=CSS3&logoColor=white)](https://developer.mozilla.org/zh-CN/docs/Web/CSS)
-[![SVG](https://img.shields.io/badge/SVG-%23FFB13B.svg?style=flat-square&logo=SVG&logoColor=black)](https://developer.mozilla.org/zh-CN/docs/Web/SVG)
+#### 常使用的语言和框架~w
+[![HTML5](https://img.shields.io/badge/HTML5-E34F26.svg?style=flat-square&logo=HTML5&logoColor=white)](https://developer.mozilla.org/zh-CN/docs/Web/HTML)
+[![CSS3](https://img.shields.io/badge/CSS3-1572B6.svg?style=flat-square&logo=CSS3&logoColor=white)](https://developer.mozilla.org/zh-CN/docs/Web/CSS)
+[![SVG](https://img.shields.io/badge/SVG-FFB13B.svg?style=flat-square&logo=SVG&logoColor=black)](https://developer.mozilla.org/zh-CN/docs/Web/SVG)
+[![Vue](https://img.shields.io/badge/Vue-4FC08D.svg?style=flat-square&logo=vue.js&logoColor=white)](https://github.com/vuejs/core)
+[![NuxtJS](https://img.shields.io/badge/Nuxt-00DC82.svg?style=flat-square&logo=Nuxt.js&logoColor=white)](https://github.com/nuxt/nuxt)
 
 
 #### 常使用的东西~w
