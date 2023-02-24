@@ -39,11 +39,11 @@
 [![MOUSE](https://img.shields.io/badge/Viper%20Ultimate%20Quartz-fb7299?style=flat-square&logo=Razer&logoColor=white)](http://cn.razerzone.com/gaming-mice/razer-viper-ultimate)
 [![KEYBOARD](https://img.shields.io/badge/AKKO%203108%20V2%20Tokyo-fb7299?style=flat-square)](https://www.akkogear.com/keyboards/4090.html)
 
-###### 手机系统
+###### Apple 手机
 [![iOS 16](https://img.shields.io/badge/16-000000?style=flat-square&logo=iOS&logoColor=ffffff)](https://www.apple.com.cn/ios/ios-16-preview/)
 [![iPhone XR](https://img.shields.io/badge/iPhone%20XR-000000?style=flat-square&logo=Apple&logoColor=white)](https://support.apple.com/kb/SP781?locale=zh_CN)
 
-###### 手机硬件
+###### Android 手机
 [![Miku UI](https://img.shields.io/badge/Miku%20UI%20TDA-36C5BB?style=flat-square&logo=Android&logoColor=ffffff)](https://github.com/Diva-Room/DivaRelease/)
 [![Xiaomi Mi 6X](https://img.shields.io/badge/Mi%206X-FF6900?style=flat-square&logo=Xiaomi&logoColor=ffffff)](https://www.mi.com/a/h/6181.html)
 
