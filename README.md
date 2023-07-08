@@ -22,7 +22,6 @@
 
 ###### 操作系统
 [![Windows 11](https://img.shields.io/badge/Windows%2011-0078D6?style=flat-square&logo=Microsoft&logoColor=white)](https://www.microsoft.com/zh-cn/software-download/windows11)
-[![Manjaro](https://img.shields.io/badge/Manjaro-35BF5C?style=flat-square&logo=Manjaro&logoColor=white)](https://manjaro.org/)
 
 ###### 主机硬件
 [![CPU](https://img.shields.io/badge/Ryzen%20R5%203600X-ED1C24?style=flat-square&logo=AMD&logoColor=white)](https://www.amd.com/zh-hans/products/cpu/amd-ryzen-5-3600)
