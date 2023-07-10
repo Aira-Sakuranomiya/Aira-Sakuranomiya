@@ -33,7 +33,6 @@
 [![DELL](https://img.shields.io/badge/P2418D-007DB8?style=flat-square&logo=DELL&logoColor=white)](https://www.dell.com/support/home/zh-cn/product-support/product/dell-p2418d-monitor/overview)
 [![YAHAMA](https://img.shields.io/badge/AG03-4B1E78?style=flat-square&logo=Yamaha%20Corporation&logoColor=white)](https://www.yamaha.com.cn/products/show/1816/)
 [![MOUSE](https://img.shields.io/badge/Viper%20Ultimate%20Quartz-f06e8e?style=flat-square&logo=Razer&logoColor=white)](http://cn.razerzone.com/gaming-mice/razer-viper-ultimate)
-[![KEYBOARD](https://img.shields.io/badge/AKKO%203108%20V2%20Tokyo-f06e8e?style=flat-square)](https://www.akkogear.com/keyboards/4090.html)
 
 ###### Apple 手机
 [![iOS 16](https://img.shields.io/badge/16-000000?style=flat-square&logo=iOS&logoColor=ffffff)](https://www.apple.com.cn/ios/ios-16-preview/)
