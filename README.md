@@ -35,7 +35,7 @@
 [![MOUSE](https://img.shields.io/badge/Viper%20Ultimate%20Quartz-f06e8e?style=flat-square&logo=Razer&logoColor=white)](http://cn.razerzone.com/gaming-mice/razer-viper-ultimate)
 
 ###### Apple 手机
-[![iOS 16](https://img.shields.io/badge/16-000000?style=flat-square&logo=iOS&logoColor=ffffff)](https://www.apple.com.cn/ios/ios-16-preview/)
+[![iOS 17](https://img.shields.io/badge/17-000000?style=flat-square&logo=iOS&logoColor=ffffff)](https://www.apple.com.cn/ios/ios-17-preview/)
 [![iPhone XR](https://img.shields.io/badge/iPhone%20XR-000000?style=flat-square&logo=Apple&logoColor=white)](https://support.apple.com/kb/SP781?locale=zh_CN)
 
 ###### Android 手机
