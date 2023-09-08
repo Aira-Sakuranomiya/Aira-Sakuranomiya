@@ -26,7 +26,6 @@
 ###### 主机硬件
 [![CPU](https://img.shields.io/badge/Ryzen%20R5%203600X-ED1C24?style=flat-square&logo=AMD&logoColor=white)](https://www.amd.com/zh-hans/products/cpu/amd-ryzen-5-3600)
 [![GPU1](https://img.shields.io/badge/GeForce%20RTX%202070%20SUPER-76B900?style=flat-square&logo=NVIDIA&logoColor=white)](https://www.nvidia.cn/geforce/graphics-cards/rtx-2070-super/)
-[![GPU2](https://img.shields.io/badge/Radeon%20RX%205700%20XT-ED1C24?style=flat-square&logo=AMD&logoColor=white)](https://www.amd.com/zh-hans/products/graphics/amd-radeon-rx-5700-xt)
 
 ###### 显示器和外设
 [![BENQ](https://img.shields.io/badge/BenQ%20PD2705U-492582?style=flat-square&logoColor=white)](https://www.benq.com.cn/zh-cn/monitor/designer/pd2705u.html)
