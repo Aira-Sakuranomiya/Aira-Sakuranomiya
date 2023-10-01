@@ -21,9 +21,12 @@
 #### 工作环境~w
 
 ###### 操作系统
+[![macOS](https://img.shields.io/badge/Sonoma-000000?style=flat-square&logo=macOS&logoColor=white)](https://www.microsoft.com/zh-cn/software-download/windows11)
 [![Windows 11](https://img.shields.io/badge/Windows%2011-0078D6?style=flat-square&logo=Microsoft&logoColor=white)](https://www.microsoft.com/zh-cn/software-download/windows11)
 
+
 ###### 主机硬件
+[![mbp](https://img.shields.io/badge/Macbook%20Pro%202023-000000?style=flat-square&logo=Apple&logoColor=white)](https://support.apple.com/kb/SP781?locale=zh_CN)
 [![CPU](https://img.shields.io/badge/Ryzen%20R5%203600X-ED1C24?style=flat-square&logo=AMD&logoColor=white)](https://www.amd.com/zh-hans/products/cpu/amd-ryzen-5-3600)
 [![GPU1](https://img.shields.io/badge/GeForce%20RTX%202070%20SUPER-76B900?style=flat-square&logo=NVIDIA&logoColor=white)](https://www.nvidia.cn/geforce/graphics-cards/rtx-2070-super/)
 
