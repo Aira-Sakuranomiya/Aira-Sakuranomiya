@@ -18,27 +18,27 @@
 
 ---
 
-#### 工作环境~w
+###### 笔记本
 
-###### 操作系统
-[![macOS](https://img.shields.io/badge/Sonoma-000000?style=flat-square&logo=macOS&logoColor=white)](https://www.microsoft.com/zh-cn/software-download/windows11)
-[![Windows 11](https://img.shields.io/badge/Windows%2011-0078D6?style=flat-square&logo=Microsoft&logoColor=white)](https://www.microsoft.com/zh-cn/software-download/windows11)
+[![mbp](https://img.shields.io/badge/Macbook%20Pro%202023-000000?style=flat-square&logo=Apple&logoColor=white)](https://support.apple.com/kb/SP889)
+[![macOS](https://img.shields.io/badge/Sonoma-000000?style=flat-square&logo=macOS&logoColor=white)](https://www.apple.com/macos/sonoma/)
 
+###### 台式机
 
-###### 主机硬件
-[![mbp](https://img.shields.io/badge/Macbook%20Pro%202023-000000?style=flat-square&logo=Apple&logoColor=white)](https://support.apple.com/kb/SP781?locale=zh_CN)
+[![Windows 11](https://img.shields.io/badge/Windows%2011-0078D6?style=flat-square&logo=Microsoft&logoColor=white)](https://www.microsoft.com/windows/windows-11)
+
 [![CPU](https://img.shields.io/badge/Ryzen%20R5%203600X-ED1C24?style=flat-square&logo=AMD&logoColor=white)](https://www.amd.com/zh-hans/products/cpu/amd-ryzen-5-3600)
 [![GPU1](https://img.shields.io/badge/GeForce%20RTX%202070%20SUPER-76B900?style=flat-square&logo=NVIDIA&logoColor=white)](https://www.nvidia.cn/geforce/graphics-cards/rtx-2070-super/)
 
-###### 显示器和外设
+
 [![BENQ](https://img.shields.io/badge/BenQ%20PD2705U-492582?style=flat-square&logoColor=white)](https://www.benq.com.cn/zh-cn/monitor/designer/pd2705u.html)
 [![DELL](https://img.shields.io/badge/P2418D-007DB8?style=flat-square&logo=DELL&logoColor=white)](https://www.dell.com/support/home/zh-cn/product-support/product/dell-p2418d-monitor/overview)
 [![YAHAMA](https://img.shields.io/badge/AG03-4B1E78?style=flat-square&logo=Yamaha%20Corporation&logoColor=white)](https://www.yamaha.com.cn/products/show/1816/)
 [![MOUSE](https://img.shields.io/badge/Viper%20Ultimate%20Quartz-f06e8e?style=flat-square&logo=Razer&logoColor=white)](http://cn.razerzone.com/gaming-mice/razer-viper-ultimate)
 
-###### Apple 手机
+###### iOS 手机
 [![iOS 17](https://img.shields.io/badge/17-000000?style=flat-square&logo=iOS&logoColor=ffffff)](https://www.apple.com.cn/ios/ios-17-preview/)
-[![iPhone XR](https://img.shields.io/badge/iPhone%20XR-000000?style=flat-square&logo=Apple&logoColor=white)](https://support.apple.com/kb/SP781?locale=zh_CN)
+[![iPhone XR](https://img.shields.io/badge/iPhone%20XR-000000?style=flat-square&logo=Apple&logoColor=white)](https://support.apple.com/kb/SP781)
 
 ###### Android 手机
 [![Miku UI](https://img.shields.io/badge/Miku%20UI%20TDA-36C5BB?style=flat-square&logo=Android&logoColor=ffffff)](https://github.com/Diva-Room/DivaRelease/)
