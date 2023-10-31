@@ -20,7 +20,7 @@
 
 ###### 笔记本
 
-[![mbp](https://img.shields.io/badge/Macbook%20Pro%202023-000000?style=flat-square&logo=Apple&logoColor=white)](https://support.apple.com/kb/SP889)
+[![mbp](https://img.shields.io/badge/Macbook%20Pro%2014--inch%20Early%202023-000000?style=flat-square&logo=Apple&logoColor=white)](https://support.apple.com/kb/SP889)
 [![macOS](https://img.shields.io/badge/Sonoma-000000?style=flat-square&logo=macOS&logoColor=white)](https://www.apple.com/macos/sonoma/)
 
 ###### 台式机
