@@ -2,7 +2,7 @@
 
 ### Hi~ Here's Aira desu! (｡･∀･)ﾉﾞ
 
-- 🌸 I love cute stuff.
+- 🌸 I love cute things.
 - 🎨 Mainly doing design, also can write code.
 - 🎵 Webmaster of *otomad.wiki*.
 - 🎶 Founder of *NOVA OTOMADS*.
