@@ -7,7 +7,7 @@
 - 🎨 Mainly doing design, also can write code.
 - 🎵 Webmaster of *otomad.wiki*.
 - 🎶 Founder of *NOVA OTOMADS*.
-- 🎮 Owner of Mincraft server *Calibur Pixel*.
+- 🎮 Owner of Minecraft server *Calibur Pixel*.
 
 
 #### Come to find me!
