@@ -65,7 +65,7 @@
 
 
 ##### Android Phone
-[![Miku UI](https://img.shields.io/badge/Miku%20UI%20TDA-36C5BB?style=flat-square&logo=Android&logoColor=ffffff)](https://github.com/Diva-Room/DivaRelease/)
+[![Miku UI](https://img.shields.io/badge/Miku%20UI-36C5BB?style=flat-square&logo=Android&logoColor=ffffff)](https://github.com/Diva-Room/DivaRelease/)
 [![Xiaomi Mi 6X](https://img.shields.io/badge/Mi%206X-FF6900?style=flat-square&logo=Xiaomi&logoColor=ffffff)](https://www.mi.com/a/h/6181.html)
 
 </details>
