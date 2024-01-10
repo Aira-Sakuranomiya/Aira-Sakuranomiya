@@ -1,6 +1,6 @@
 <img align="right" src="https://raw.githubusercontent.com/Aira-Sakuranomiya/Aira-Sakuranomiya/main/AiraGitHubProfile.png" width="32%">
 
-### Hi~ Here's Aira desu! (｡･∀･)ﾉﾞ
+### Hi~ Here's Aira desuwa! (｡･∀･)ﾉﾞ
 
 - 🌸 I love cute things.
 - ❌ I hate horrible things.
@@ -10,7 +10,7 @@
 - 🎮 Owner of Minecraft server *Calibur Pixel*.
 
 
-#### Come to find me!
+#### Reach me from
 [![bilibili](https://img.shields.io/badge/艾了个拉-FB7299.svg?style=for-the-badge&logo=Bilibili&logoColor=white)](https://space.bilibili.com/22807093)
 [![Twitter](https://img.shields.io/badge/@otomadhero-1DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white)](https://twitter.com/otomadhero)
 [![YouTube](https://img.shields.io/youtube/channel/subscribers/UCvVsWQ357LsgFwQfFh8kckg?color=ff0000&label=@otomadhero&logo=YouTube&style=for-the-badge&labelColor=ff0000)](https://www.youtube.com/@otomadhero)
@@ -33,8 +33,15 @@
 
 [![BENQ](https://img.shields.io/badge/BenQ%20PD2705U-492582?style=flat-square&logoColor=white)](https://www.benq.com.cn/zh-cn/monitor/designer/pd2705u.html)
 [![DELL](https://img.shields.io/badge/P2418D-007DB8?style=flat-square&logo=DELL&logoColor=white)](https://www.dell.com/support/home/zh-cn/product-support/product/dell-p2418d-monitor/overview)
-[![YAHAMA](https://img.shields.io/badge/AG03-4B1E78?style=flat-square&logo=Yamaha%20Corporation&logoColor=white)](https://www.yamaha.com.cn/products/show/1816/)
 [![MOUSE](https://img.shields.io/badge/Viper%20Ultimate%20Quartz-f06e8e?style=flat-square&logo=Razer&logoColor=white)](http://cn.razerzone.com/gaming-mice/razer-viper-ultimate)
+
+##### Musical
+[![YAHAMA AG03](https://img.shields.io/badge/AG03-4B1E78?style=flat-square&logo=Yamaha%20Corporation&logoColor=white)](https://www.yamaha.com.cn/products/show/1816/)
+[![Roland FP-30](https://img.shields.io/badge/Roland%20FP--30-FF5A00?style=flat-square&logoColor=white)](https://www.roland.com/global/products/fp-30/)
+[![beyerdynamic DT 900 PRO X](https://img.shields.io/badge/beyerdynamic%20DT%20900%20PRO%20X-FF5900?style=flat-square&logoColor=white)](https://global.beyerdynamic.com/dt-900-pro-x.html)
+[![Audio-Technica M50X](https://img.shields.io/badge/M50X-000000?style=flat-square&logo=Audio-Technica&logoColor=white)](https://www.audio-technica.com/en-us/ath-m50x)
+[![AirPods Pro 2](https://img.shields.io/badge/AirPods%20Pro%202-000000?style=flat-square&logo=Apple&logoColor=white)](https://www.apple.com/airpods-pro/)
+
 
 ###### iPhone
 [![iOS 17](https://img.shields.io/badge/17-000000?style=flat-square&logo=iOS&logoColor=ffffff)](https://www.apple.com.cn/ios/ios-17-preview/)
@@ -46,20 +53,10 @@
 
 ---
 
-[![HTML5](https://img.shields.io/badge/HTML5-E34F26.svg?style=flat-square&logo=HTML5&logoColor=white)](https://developer.mozilla.org/zh-CN/docs/Web/HTML)
-[![CSS3](https://img.shields.io/badge/CSS3-1572B6.svg?style=flat-square&logo=CSS3&logoColor=white)](https://developer.mozilla.org/zh-CN/docs/Web/CSS)
-[![SVG](https://img.shields.io/badge/SVG-FFB13B.svg?style=flat-square&logo=SVG&logoColor=black)](https://developer.mozilla.org/zh-CN/docs/Web/SVG)
-[![Vue](https://img.shields.io/badge/Vue-4FC08D.svg?style=flat-square&logo=vue.js&logoColor=white)](https://github.com/vuejs/core)
-[![NuxtJS](https://img.shields.io/badge/Nuxt-00DC82.svg?style=flat-square&logo=Nuxt.js&logoColor=white)](https://github.com/nuxt/nuxt)
+![Icons](https://skillicons.dev/icons?i=html,css,sass,svg,vue,nuxt,vscode,figma,ae,ai,github,vercel,discord)
 
-
-[![After Effects](https://img.shields.io/badge/After%20Effects-9999FF.svg?style=flat-square&logo=Adobe%20After%20Effects&logoColor=white)](https://www.adobe.com/products/aftereffects.html)
-[![Figma](https://img.shields.io/badge/Figma-1d1d1d.svg?style=flat-square&logo=Figma&logoColor=white)](https://www.figma.com/)
-[![Illustrator](https://img.shields.io/badge/Illustrator-%23FF9A00.svg?style=flat-square&logo=adobe%20illustrator&logoColor=white)](https://www.adobe.com/products/illustrator.html)
 [![uBlock Origin](https://img.shields.io/badge/uBlock%20Origin-800000.svg?style=flat-square&logo=ublockorigin&logoColor=white)](https://ublockorigin.com/)
 [![Chrome](https://img.shields.io/badge/Chrome-4285F4?style=flat-square&logo=Google-Chrome&logoColor=white)](https://www.google.cn/chrome)
-[![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=flat-square&logo=visual-studio-code&logoColor=white)](https://code.visualstudio.com/)
-[![Material Design](https://img.shields.io/badge/Material%20Design-757575.svg?style=flat-square&logo=material-design&logoColor=white)](https://material.io/)
 
 <!--
 **Aira-Sakuranomiya/Aira-Sakuranomiya** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
