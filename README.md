@@ -3,11 +3,11 @@
 ### Hello! Aira desuwa! (｡･∀･)ﾉﾞ
 
 - 🌸 I love cute things.
-- ❌ I hate horrible things.
-- 🎨 Mainly doing design, also can write code.
-- 🎵 Webmaster of *otomad.wiki*.
-- 🎶 Founder of *NOVA OTOMADS*.
-- 🎮 Owner of Minecraft server *Calibur Pixel*.
+- 🎨 A designer who can also write some code.
+- 🌟 Designer and developer of [KIRAKIRA](https://github.com/KIRAKIRA-DOUGA).
+- 🎵 Webmaster of [OtomadWiki](https://otomad.wiki).
+- 🎶 Founder of [NOVA OTOMADS](https://otomad.wiki/NOVA%E9%9F%B3MAD%E7%A4%BE).
+- 🎮 Owner of Minecraft server [Calibur Pixel](https://mc.calibur.tv).
 
 
 
@@ -28,7 +28,7 @@
 
 <br/>
 <details>
-  <summary>My devices</summary>
+	<summary>My devices</summary>
 
 ##### Laptop computer
 
@@ -69,20 +69,3 @@
 [![Xiaomi Mi 6X](https://img.shields.io/badge/Mi%206X-FF6900?style=flat-square&logo=Xiaomi&logoColor=ffffff)](https://www.mi.com/a/h/6181.html)
 
 </details>
-
-
-
-<!--
-**Aira-Sakuranomiya/Aira-Sakuranomiya** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
