@@ -41,11 +41,8 @@
 
 [![Windows 11](https://img.shields.io/badge/Windows%2011-0078D6?style=flat-square&logo=Microsoft&logoColor=white)](https://www.microsoft.com/windows/windows-11)
 [![Ubuntu 23.10](https://img.shields.io/badge/Ubuntu%20Desktop%2023.10-E95420?style=flat-square&logo=Ubuntu&logoColor=white)](https://ubuntu.com)
-
 [![CPU](https://img.shields.io/badge/Ryzen%20R5%203600X-ED1C24?style=flat-square&logo=AMD&logoColor=white)](https://www.amd.com/zh-hans/products/cpu/amd-ryzen-5-3600)
 [![GPU1](https://img.shields.io/badge/GeForce%20RTX%202070%20SUPER-76B900?style=flat-square&logo=NVIDIA&logoColor=white)](https://www.nvidia.cn/geforce/graphics-cards/rtx-2070-super/)
-
-
 [![BENQ](https://img.shields.io/badge/BenQ%20PD2705U-492582?style=flat-square&logoColor=white)](https://www.benq.com.cn/zh-cn/monitor/designer/pd2705u.html)
 [![DELL](https://img.shields.io/badge/P2418D-007DB8?style=flat-square&logo=DELL&logoColor=white)](https://www.dell.com/support/home/zh-cn/product-support/product/dell-p2418d-monitor/overview)
 [![MOUSE](https://img.shields.io/badge/Viper%20Ultimate%20Quartz-f06e8e?style=flat-square&logo=Razer&logoColor=white)](http://cn.razerzone.com/gaming-mice/razer-viper-ultimate)
