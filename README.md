@@ -22,8 +22,8 @@
 #### 🛠 Tools I use
 ![Tools I use](https://skillicons.dev/icons?i=vscode,figma,ae,ai,github,vercel,discord)
 
-[![uBlock Origin](https://img.shields.io/badge/uBlock%20Origin-800000.svg?style=flat-square&logo=ublockorigin&logoColor=white)](https://ublockorigin.com/)
-[![Chrome](https://img.shields.io/badge/Chrome-4285F4?style=flat-square&logo=Google-Chrome&logoColor=white)](https://www.google.cn/chrome)
+[![uBlock Origin](https://img.shields.io/badge/uBlock%20Origin-800000.svg?style=for-the-badge&logo=ublockorigin&logoColor=white)](https://ublockorigin.com/)
+[![Chrome](https://img.shields.io/badge/Chrome-4285F4?style=for-the-badge&logo=Google-Chrome&logoColor=white)](https://www.google.cn/chrome)
 
 
 <br/>
