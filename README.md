@@ -1,6 +1,6 @@
 <img align="right" src="https://raw.githubusercontent.com/Aira-Sakuranomiya/Aira-Sakuranomiya/main/AiraGitHubProfile.png" width="32%">
 
-### Hi~ Here's Aira desuwa! (｡･∀･)ﾉﾞ
+### Hello! Aira desuwa! (｡･∀･)ﾉﾞ
 
 - 🌸 I love cute things.
 - ❌ I hate horrible things.
@@ -28,16 +28,16 @@
 
 <br/>
 <details>
-  <summary>My Devices</summary>
+  <summary>My devices</summary>
 
-##### Laptop Computer
+##### Laptop computer
 
 [![mbp](https://img.shields.io/badge/Macbook%20Pro%2014--inch%20Early%202023-000000?style=flat-square&logo=Apple&logoColor=white)](https://support.apple.com/kb/SP889)
 [![macOS](https://img.shields.io/badge/Sonoma-000000?style=flat-square&logo=macOS&logoColor=white)](https://www.apple.com/macos/sonoma/)
 
 
 
-##### Desktop Computer
+##### Desktop computer
 
 [![Windows 11](https://img.shields.io/badge/Windows%2011-0078D6?style=flat-square&logo=Microsoft&logoColor=white)](https://www.microsoft.com/windows/windows-11)
 [![Ubuntu 23.10](https://img.shields.io/badge/Ubuntu%20Desktop%2023.10-E95420?style=flat-square&logo=Ubuntu&logoColor=white)](https://ubuntu.com)
@@ -64,7 +64,7 @@
 
 
 
-##### Android Phone
+##### Android phone
 [![Miku UI](https://img.shields.io/badge/Miku%20UI-36C5BB?style=flat-square&logo=Android&logoColor=ffffff)](https://github.com/Diva-Room/DivaRelease/)
 [![Xiaomi Mi 6X](https://img.shields.io/badge/Mi%206X-FF6900?style=flat-square&logo=Xiaomi&logoColor=ffffff)](https://www.mi.com/a/h/6181.html)
 
