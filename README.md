@@ -6,8 +6,8 @@
 - 🎨 A designer who can also write some code.
 - 🌟 Designer and developer of [KIRAKIRA](https://github.com/KIRAKIRA-DOUGA).
 - 🎵 Webmaster of [OtomadWiki](https://otomad.wiki).
-- 🎶 Founder of [NOVA OTOMADS](https://otomad.wiki/NOVA%E9%9F%B3MAD%E7%A4%BE).
-- 🎮 Owner of Minecraft server [Calibur Pixel](https://mc.calibur.tv).
+- 🎶 Founder and admin of [NOVA OTOMADS](https://otomad.wiki/NOVA%E9%9F%B3MAD%E7%A4%BE).
+- 🎮 Founder and admin of Minecraft server [Calibur Pixel](https://mc.calibur.tv).
 
 
 
