@@ -11,17 +11,17 @@
 
 [![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/L3L3UGWBH)
 
-#### 💬 Social media
+#### 💬 Social Media
 
 [![bilibili](https://img.shields.io/badge/艾了个拉-FB7299.svg?style=for-the-badge&logo=Bilibili&logoColor=white)](https://space.bilibili.com/22807093)
 [![Twitter](https://img.shields.io/badge/@otomadhero-1DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white)](https://twitter.com/otomadhero)
 [![YouTube](https://img.shields.io/youtube/channel/subscribers/UCvVsWQ357LsgFwQfFh8kckg?color=ff0000&label=@otomadhero&logo=YouTube&style=for-the-badge&labelColor=ff0000)](https://www.youtube.com/@otomadhero)
 
-#### 🔭 Tech stack
+#### 🔭 Tech Stack
 
 ![Tech stack](https://skillicons.dev/icons?i=html,css,sass,svg,vue,nuxt)
 
-#### 🛠 Tools I use
+#### 🛠 Tools I Use
 
 ![Tools I use](https://skillicons.dev/icons?i=vscode,figma,ae,ai,github,vercel,discord)
 
@@ -30,14 +30,14 @@
 
 <br/>
 <details>
- <summary>My devices</summary>
+<summary>My Devices</summary>
 
-##### Laptop computer
+##### Laptop
 
 [![mbp](https://img.shields.io/badge/Macbook%20Pro%2014--inch%20Early%202023-000000?style=flat-square&logo=Apple&logoColor=white)](https://support.apple.com/kb/SP889)
 [![macOS](https://img.shields.io/badge/Sonoma-000000?style=flat-square&logo=macOS&logoColor=white)](https://www.apple.com/macos/sonoma/)
 
-##### Desktop computer
+##### Desktop PC
 
 [![Windows 11](https://img.shields.io/badge/Windows%2011-0078D6?style=flat-square&logo=windows11&logoColor=white)](https://www.microsoft.com/windows/windows-11)
 ![Windows 7](https://img.shields.io/badge/Windows%207-0078D6?style=flat-square&logo=windowsxp&logoColor=white)
@@ -50,15 +50,16 @@
 
 ##### Musical
 
-[![YAHAMA AG03](https://img.shields.io/badge/YAMAHA%20AG03-4B1E78?style=flat-square&logo=Yamaha%20Corporation&logoColor=white)](https://www.yamaha.com.cn/products/show/1816/)
+[![Yamaha AG03](https://img.shields.io/badge/Yamaha%20AG03-4B1E78?style=flat-square&logo=Yamaha%20Corporation&logoColor=white)](https://www.yamaha.com.cn/products/show/1816/)
 [![Roland FP-30](https://img.shields.io/badge/Roland%20FP--30-FF5A00?style=flat-square&logoColor=white)](https://www.roland.com/global/products/fp-30/)
 [![beyerdynamic DT 900 PRO X](https://img.shields.io/badge/beyerdynamic%20DT%20900%20PRO%20X-FF5900?style=flat-square&logoColor=white)](https://global.beyerdynamic.com/dt-900-pro-x.html)
 [![Audio-Technica M50X](https://img.shields.io/badge/Audio--Techica%20M50X-000000?style=flat-square&logo=Audio-Technica&logoColor=white)](https://www.audio-technica.com/en-us/ath-m50x)
 [![AirPods Pro 2](https://img.shields.io/badge/AirPods%20Pro%202-000000?style=flat-square&logo=Apple&logoColor=white)](https://www.apple.com/airpods-pro/)
 
-##### Android phone
+##### Android
 
 [![Android 14](https://img.shields.io/badge/Android%2014-34A853?style=flat-square&logo=Android&logoColor=ffffff)](https://www.android.com/)
+[![Evolution X](https://img.shields.io/badge/Evolution%20X-025EFD?style=flat-square)](https://evolution-x.org/)
 [![Redmi K30 Pro](https://img.shields.io/badge/Redmi%20K30%20Pro-FF6900?style=flat-square&logo=Xiaomi&logoColor=ffffff)](https://www.mi.com/redmik30pro)
 <!-- [![Miku UI](https://img.shields.io/badge/Miku%20UI-36C5BB?style=flat-square&logo=Android&logoColor=ffffff)](https://github.com/Diva-Room/DivaRelease/)
 [![Xiaomi Mi 6X](https://img.shields.io/badge/Mi%206X-FF6900?style=flat-square&logo=Xiaomi&logoColor=ffffff)](https://www.mi.com/a/h/6181.html) -->
