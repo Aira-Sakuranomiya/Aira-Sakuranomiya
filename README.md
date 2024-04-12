@@ -1,13 +1,13 @@
 <img align="right" src="https://raw.githubusercontent.com/Aira-Sakuranomiya/Aira-Sakuranomiya/main/AiraGitHubProfile.png" width="32%">
 
-### Hello! Aira desuwa! (｡･∀･)ﾉﾞ
+### Hello! 🌸 Aira desuwa! (｡･∀･)ﾉﾞ
 
-- 🌸 I love cute things.
-- 🎨 A designer who can also write some code.
-- 🌟 Designer and developer of [KIRAKIRA](https://github.com/KIRAKIRA-DOUGA).
-- 🎵 Webmaster of [OtomadWiki](https://otomad.wiki).
-- 🎶 Founder and admin of [NOVA OTOMADS](https://otomad.wiki/NOVA%E9%9F%B3MAD%E7%A4%BE).
-- 🎮 Founder and admin of Minecraft server [Calibur Pixel](https://mc.calibur.tv).
+- ❤️ Love cute things
+- 🎨 A designer who can also write some code
+- 🌟 Designer and developer of [KIRAKIRA](https://github.com/KIRAKIRA-DOUGA)
+- 🎵 Webmistress of [OtomadWiki](https://otomad.wiki)
+- 🎶 Founder and admin of [NOVA OTOMADS](https://otomad.wiki/NOVA%E9%9F%B3MAD%E7%A4%BE)
+- 🎮 Founder and admin of Minecraft server [Calibur Pixel](https://mc.calibur.tv)
 
 [![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/L3L3UGWBH)
 
