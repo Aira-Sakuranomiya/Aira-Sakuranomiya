@@ -58,8 +58,8 @@
 
 ##### Android
 
-[![Android 14](https://img.shields.io/badge/Android%2014-34A853?style=flat-square&logo=Android&logoColor=ffffff)](https://www.android.com/)
-[![Evolution X](https://img.shields.io/badge/Evolution%20X-025EFD?style=flat-square)](https://evolution-x.org/)
+[![Android 11](https://img.shields.io/badge/Android%2011-34A853?style=flat-square&logo=Android&logoColor=ffffff)](https://www.android.com/)
+[![MIUI 12.5](https://img.shields.io/badge/MIUI%2012.5-FF6900?style=flat-square&logo=Xiaomi&logoColor=ffffff)](https://miui12.home.miui.com/)
 [![Redmi K30 Pro](https://img.shields.io/badge/Redmi%20K30%20Pro-FF6900?style=flat-square&logo=Xiaomi&logoColor=ffffff)](https://www.mi.com/redmik30pro)
 <!-- [![Miku UI](https://img.shields.io/badge/Miku%20UI-36C5BB?style=flat-square&logo=Android&logoColor=ffffff)](https://github.com/Diva-Room/DivaRelease/)
 [![Xiaomi Mi 6X](https://img.shields.io/badge/Mi%206X-FF6900?style=flat-square&logo=Xiaomi&logoColor=ffffff)](https://www.mi.com/a/h/6181.html) -->
