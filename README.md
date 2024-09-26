@@ -45,8 +45,7 @@
 ##### Laptop
 
 [![MBP](https://img.shields.io/badge/Macbook%20Pro%2014--inch%202023-000000?style=flat-square&logo=Apple&logoColor=white)](https://support.apple.com/kb/SP889)
-[![macOS](https://img.shields.io/badge/Sonoma-000000?style=flat-square&logo=macOS&logoColor=white)](https://www.apple.com/macos/sonoma/)
-[![Logitech MX Master 2S](https://img.shields.io/badge/MX%20Master%202S-00B8FC?style=flat-square&logo=logitech&logoColor=white)](https://www.logitech.com/en-us/eol/mx-master-2s-mouse.910-005138.html)
+[![macOS](https://img.shields.io/badge/Sequoia-000000?style=flat-square&logo=macOS&logoColor=white)](https://www.apple.com/macos/sequoia/)
 
 ##### Desktop PC
 
