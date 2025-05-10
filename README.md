@@ -8,6 +8,7 @@
 - Leader of [OtomadWiki](https://otomad.wiki)
 - Founder and admin of [NOVA OTOMADS](https://otomad.wiki/NOVA%E9%9F%B3MAD%E7%A4%BE)
 - Founder and admin of Minecraft server [Calibur Pixel](https://mc.calibur.tv)
+- maimai DX and Minecraft player
 
 [![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/L3L3UGWBH)
 
