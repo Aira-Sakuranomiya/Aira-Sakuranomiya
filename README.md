@@ -74,7 +74,7 @@
   
   ##### Android
   
-  [![Android 14](https://img.shields.io/badge/Android%2014-34A853?style=flat-square&logo=Android&logoColor=ffffff)](https://www.android.com/)
+  [![Android 15](https://img.shields.io/badge/Android%2015-34A853?style=flat-square&logo=Android&logoColor=ffffff)](https://www.android.com/)
   [![HyperOS](https://img.shields.io/badge/HyperOS-2655FF?style=flat-square&logo=Xiaomi&logoColor=ffffff)](https://hyperos.mi.com/)
   [![Redmi K30 Pro](https://img.shields.io/badge/Redmi%20K30%20Pro-FF6900?style=flat-square&logo=Xiaomi&logoColor=ffffff)](https://www.mi.com/redmik30pro)
   <!-- [![Miku UI](https://img.shields.io/badge/Miku%20UI-36C5BB?style=flat-square&logo=Android&logoColor=ffffff)](https://github.com/Diva-Room/DivaRelease/)
