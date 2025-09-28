@@ -5,7 +5,7 @@
 - Love cute things
 - Designer and developer
 - Leader of [KIRAKIRA](https://github.com/KIRAKIRA-DOUGA)
-- Leader of [OtomadWiki](https://otomad.wiki)
+- Maintainer of [OtomadWiki](https://otomad.wiki)
 - Founder and admin of [NOVA OTOMADS](https://otomad.wiki/NOVA%E9%9F%B3MAD%E7%A4%BE)
 - Founder and admin of Minecraft server [Calibur Pixel](https://mc.calibur.tv)
 - maimai DX and Minecraft player
