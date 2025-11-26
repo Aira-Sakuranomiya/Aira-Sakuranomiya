@@ -23,7 +23,7 @@
 
   #### Language
   
-  ![Language](https://skillicons.dev/icons?i=html,css,scss,svg,js,ts,java&theme=light)
+  ![Language](https://skillicons.dev/icons?i=html,css,scss,svg,js,ts,swift,java&theme=light)
   
   #### Framework
   
@@ -31,7 +31,7 @@
   
   #### Tool
   
-  ![Tool](https://skillicons.dev/icons?i=vscode,idea,androidstudio,figma,ae,ai,blender&theme=light)
+  ![Tool](https://skillicons.dev/icons?i=vscode,xcode,idea,androidstudio,figma,ae,ai,blender&theme=light)
   
   <!--
   [![Chrome](https://img.shields.io/badge/Chrome-4285F4?style=for-the-badge&logo=Google-Chrome&logoColor=white)](https://www.google.cn/chrome)
