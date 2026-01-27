@@ -19,7 +19,7 @@
 [![YouTube](https://img.shields.io/youtube/channel/subscribers/UCvVsWQ357LsgFwQfFh8kckg?color=ff0000&label=@otomadhero&logo=YouTube&style=for-the-badge&labelColor=ff0000)](https://www.youtube.com/@otomadhero)
 
 <details>
-  <summary>My Tech Stack</summary>
+  <summary>Tech Stack</summary>
   <br/>
 
   ![Language](https://skillicons.dev/icons?i=html,css,scss,svg,js,ts,vue,nuxt,swift,cs,java,python&theme=light)
@@ -30,7 +30,7 @@
 
 <br/>
 <details>
-  <summary>My Devices</summary>
+  <summary>Devices</summary>
   
   ##### Laptop
 
