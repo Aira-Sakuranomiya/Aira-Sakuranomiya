@@ -21,25 +21,9 @@
 <details>
   <summary>My Tech Stack</summary>
 
-  #### Language
+  ![Language](https://skillicons.dev/icons?i=html,css,scss,svg,js,ts,vue,nuxt,swift,cs,java,python&theme=light)
   
-  ![Language](https://skillicons.dev/icons?i=html,css,scss,svg,js,ts,swift,java&theme=light)
-  
-  #### Framework
-  
-  ![Framework](https://skillicons.dev/icons?i=vue,nuxt&theme=light)
-  
-  #### Tool
-  
-  ![Tool](https://skillicons.dev/icons?i=vscode,xcode,idea,androidstudio,figma,ae,ai,blender&theme=light)
-  
-  <!--
-  [![Chrome](https://img.shields.io/badge/Chrome-4285F4?style=for-the-badge&logo=Google-Chrome&logoColor=white)](https://www.google.cn/chrome)
-  [![uBlock Origin](https://img.shields.io/badge/uBlock%20Origin-800000.svg?style=for-the-badge&logo=ublockorigin&logoColor=white)](https://ublockorigin.com/)
-  -->
-  
-  #### Service
-  ![Service](https://skillicons.dev/icons?i=github,vercel&theme=light)
+  ![Tool](https://skillicons.dev/icons?i=vscode,idea,androidstudio,figma,ae,ai,blender,xcode&theme=light)
 </details>
 
 
@@ -48,40 +32,39 @@
   <summary>My Devices</summary>
   
   ##### Laptop
-  
-  [![MBP](https://img.shields.io/badge/Macbook%20Pro%2014--inch%202023-000000?style=flat-square&logo=Apple&logoColor=white)](https://support.apple.com/kb/SP889)
-  [![macOS](https://img.shields.io/badge/Sequoia-000000?style=flat-square&logo=macOS&logoColor=white)](https://www.apple.com/macos/sequoia/)
+
+  [![MBP1](https://img.shields.io/badge/Macbook_Pro_16--inch_M4_Max-000000?style=flat-square&logo=Apple&logoColor=white)](https://support.apple.com/en-us/121554)
+  [![MBP0](https://img.shields.io/badge/Macbook_Pro_14--inch_M2_Pro-000000?style=flat-square&logo=Apple&logoColor=white)](https://support.apple.com/kb/SP889)
+  [![macOS](https://img.shields.io/badge/Tahoe-000000?style=flat-square&logo=macOS&logoColor=white)](https://www.apple.com/macos/tahoe/)
   
   ##### Desktop PC
   
-  [![Windows 11](https://img.shields.io/badge/Windows%2011-0078D6?style=flat-square&logo=windows11&logoColor=white)](https://www.microsoft.com/windows/windows-11)
-  ![Windows 7](https://img.shields.io/badge/Windows%207-0078D6?style=flat-square&logo=windowsxp&logoColor=white)
-  [![Ubuntu 23.10](https://img.shields.io/badge/Ubuntu%20Desktop%2023.10-E95420?style=flat-square&logo=Ubuntu&logoColor=white)](https://ubuntu.com)
+  [![Windows 11](https://img.shields.io/badge/Windows_11-0078D6?style=flat-square&logo=windows11&logoColor=white)](https://www.microsoft.com/windows/windows-11)
+  ![Windows 7](https://img.shields.io/badge/Windows_7-0078D6?style=flat-square&logo=windowsxp&logoColor=white)
   [![CPU](https://img.shields.io/badge/Ryzen%20R5%203600X-ED1C24?style=flat-square&logo=AMD&logoColor=white)](https://www.amd.com/zh-hans/products/cpu/amd-ryzen-5-3600)
   [![GPU](https://img.shields.io/badge/NVIDIA%20GeForce%20RTX%202070%20SUPER-76B900?style=flat-square&logo=NVIDIA&logoColor=white)](https://www.nvidia.cn/geforce/graphics-cards/rtx-2070-super/)
   [![BenQ](https://img.shields.io/badge/BenQ%20PD2705U-492582?style=flat-square&logoColor=white)](https://www.benq.com.cn/zh-cn/monitor/designer/pd2705u.html)
-  [![DELL](https://img.shields.io/badge/P2418D-007DB8?style=flat-square&logo=DELL&logoColor=white)](https://www.dell.com/support/home/zh-cn/product-support/product/dell-p2418d-monitor/overview)
-  [![Viper Ultimate](https://img.shields.io/badge/Razer%20Viper%20Ultimate%20Quartz-f06e8e?style=flat-square&logo=Razer&logoColor=white)](http://cn.razerzone.com/gaming-mice/razer-viper-ultimate)
   
   ##### Musical
-  
+
   [![Yamaha AG03](https://img.shields.io/badge/Yamaha%20AG03-4B1E78?style=flat-square&logo=Yamaha%20Corporation&logoColor=white)](https://www.yamaha.com.cn/products/show/1816/)
-  [![Roland FP-30](https://img.shields.io/badge/Roland%20FP--30-FF5A00?style=flat-square&logoColor=white)](https://www.roland.com/global/products/fp-30/)
-  [![MOONDROP CHU II](https://img.shields.io/badge/MOONDROP%20CHU%20II-000000?style=flat-square)](https://moondroplab.com/en/products/chu-ii)
+  [![Kali LP-UNF](https://img.shields.io/badge/Kali_Audio_LP--UNF-00B8FF?style=flat-square)](https://www.kaliaudio.com/lp-unf/)
   [![beyerdynamic DT 900 PRO X](https://img.shields.io/badge/beyerdynamic%20DT%20900%20PRO%20X-FF5900?style=flat-square&logoColor=white)](https://global.beyerdynamic.com/dt-900-pro-x.html)
+  [![MOONDROP CHU II](https://img.shields.io/badge/MOONDROP%20CHU%20II-000000?style=flat-square)](https://moondroplab.com/en/products/chu-ii)
   [![AirPods Pro 2](https://img.shields.io/badge/AirPods%20Pro%202-000000?style=flat-square&logo=Apple&logoColor=white)](https://www.apple.com/airpods-pro/)
   [![Audio-Technica M50X](https://img.shields.io/badge/Audio--Techica%20M50X-000000?style=flat-square&logo=Audio-Technica&logoColor=white)](https://www.audio-technica.com/en-us/ath-m50x)
-  
+  [![Roland FP-30](https://img.shields.io/badge/Roland%20FP--30-FF5A00?style=flat-square&logoColor=white)](https://www.roland.com/global/products/fp-30/)
+
+<!--
   ##### Android
   
   [![Android 15](https://img.shields.io/badge/Android%2015-34A853?style=flat-square&logo=Android&logoColor=ffffff)](https://www.android.com/)
   [![HyperOS](https://img.shields.io/badge/HyperOS-2655FF?style=flat-square&logo=Xiaomi&logoColor=ffffff)](https://hyperos.mi.com/)
   [![Redmi K30 Pro](https://img.shields.io/badge/Redmi%20K30%20Pro-FF6900?style=flat-square&logo=Xiaomi&logoColor=ffffff)](https://www.mi.com/redmik30pro)
-  <!-- [![Miku UI](https://img.shields.io/badge/Miku%20UI-36C5BB?style=flat-square&logo=Android&logoColor=ffffff)](https://github.com/Diva-Room/DivaRelease/)
-  [![Xiaomi Mi 6X](https://img.shields.io/badge/Mi%206X-FF6900?style=flat-square&logo=Xiaomi&logoColor=ffffff)](https://www.mi.com/a/h/6181.html) -->
-  
+-->
+
   ##### iPhone
   
-  [![iOS 18](https://img.shields.io/badge/18-000000?style=flat-square&logo=iOS&logoColor=ffffff)](https://www.apple.com/ios/ios-18-preview/)
-  [![iPhone XR](https://img.shields.io/badge/iPhone%20XR-000000?style=flat-square&logo=Apple&logoColor=white)](https://support.apple.com/kb/SP781)
+  [![iOS 26](https://img.shields.io/badge/26-000000?style=flat-square&logo=iOS&logoColor=ffffff)](https://www.apple.com/ios/)
+  [![iPhone 17](https://img.shields.io/badge/iPhone_17-000000?style=flat-square&logo=Apple&logoColor=white)](https://www.apple.com/iphone-17/)
 </details>
