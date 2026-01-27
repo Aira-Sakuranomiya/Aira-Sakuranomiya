@@ -20,6 +20,7 @@
 
 <details>
   <summary>My Tech Stack</summary>
+  <br/>
 
   ![Language](https://skillicons.dev/icons?i=html,css,scss,svg,js,ts,vue,nuxt,swift,cs,java,python&theme=light)
   
