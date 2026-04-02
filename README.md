@@ -48,7 +48,7 @@
   
   ##### Musical
 
-  [![Yamaha AG03](https://img.shields.io/badge/Yamaha%20AG03-4B1E78?style=flat-square&logo=Yamaha%20Corporation&logoColor=white)](https://www.yamaha.com.cn/products/show/1816/)
+  [![Yamaha URX22C](https://img.shields.io/badge/Yamaha%20URX22C-4B1E78?style=flat-square&logo=Yamaha%20Corporation&logoColor=white)](https://www.yamaha.com.cn/products/show/3215/)
   [![Kali LP-UNF](https://img.shields.io/badge/Kali_Audio_LP--UNF-00B8FF?style=flat-square)](https://www.kaliaudio.com/lp-unf/)
   [![beyerdynamic DT 900 PRO X](https://img.shields.io/badge/beyerdynamic%20DT%20900%20PRO%20X-FF5900?style=flat-square&logoColor=white)](https://global.beyerdynamic.com/dt-900-pro-x.html)
   [![MOONDROP CHU II](https://img.shields.io/badge/MOONDROP%20CHU%20II-000000?style=flat-square)](https://moondroplab.com/en/products/chu-ii)
